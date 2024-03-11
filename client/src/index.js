@@ -5,3 +5,4 @@ async function test() {
 test();
 
 console.log('this works!');
+console.log('this works!');
